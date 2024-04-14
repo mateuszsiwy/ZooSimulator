@@ -7,6 +7,10 @@ This game was written using the wxWidgets library
 
 ### Controls
 arrow keys - move around
+
 shift - open shop (works only near the shop)
+
 1, 2, 3 - buy items in the shop
+
 E - feed the animal (works only near the animal)
+
