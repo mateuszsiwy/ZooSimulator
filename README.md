@@ -1,5 +1,7 @@
 # ZooSimulator
 Zoo Simulator mini game, the purpose is to feed all of the present animals
+### Launching the game
+In order to launch the game, you have to have .exe file in the same location as all the images
 ### Library
 This game was written using the wxWidgets library
 
